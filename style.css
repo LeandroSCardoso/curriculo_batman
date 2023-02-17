@@ -1,0 +1,57 @@
+body {
+    background-image: url("bat_bg.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: '100%';
+    background-color: hsl(0, 2%, 34%);
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 36px;
+    font-weight: 800;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin-bottom: 10px;
+  }
+  
+  .sec-corpo{
+    background-position: center;
+  }
+
+  .sec {
+    margin-bottom: 30px;
+    width: auto;
+  }
+  
+  .sec-header {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .sec-content {
+    border-left: 5px solid #f00;
+    width: 800px;
+    padding: 10px;
+    text-align: justify;
+  }
